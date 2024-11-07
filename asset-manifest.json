@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Sponsorship/static/css/main.7982335c.css",
-    "main.js": "/Sponsorship/static/js/main.74a25cd0.js",
+    "main.js": "/Sponsorship/static/js/main.a89d5788.js",
     "index.html": "/Sponsorship/index.html",
     "main.7982335c.css.map": "/Sponsorship/static/css/main.7982335c.css.map",
-    "main.74a25cd0.js.map": "/Sponsorship/static/js/main.74a25cd0.js.map"
+    "main.a89d5788.js.map": "/Sponsorship/static/js/main.a89d5788.js.map"
   },
   "entrypoints": [
     "static/css/main.7982335c.css",
-    "static/js/main.74a25cd0.js"
+    "static/js/main.a89d5788.js"
   ]
 }
